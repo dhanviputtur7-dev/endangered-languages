@@ -268,8 +268,8 @@ with tab5:
 
         st.subheader("What Wikipedia says about Tulu")
         st.markdown("""
-*Paraphrased from the English Wikipedia article "Tulu language" (read October 14, 2026).*
-- **Where and how many:** spoken mainly in coastal Karnataka (Dakshina Kannada and Udupi) and northern Kasaragod in Kerala. The 2011 census counted about 1.85 million native speakers, and UNESCO lists it as Vulnerable.
+*Paraphrased from the English Wikipedia article "Tulu language".*
+- **Where and how many:** spoken mainly in coastal Karnataka in the areas of Dakshina Kannada and Udupi and northern Kasaragod in Kerala. The 2011 census counted about 1.85 million native speakers, and UNESCO lists it as Vulnerable.
 - **Culture:** known for oral epic poems (the Epic of Siri), Yakshagana theatre, and a small film industry. It is now written mostly in the Kannada script.
 - **Status:** an additional administrative language alongside Kannada in two districts, but not on India's 8th Schedule. It is taught in some schools and at universities. The article also reports a September 2026 Karnataka cabinet decision on its recognition, which I have not checked.
 - **Its own warning:** the article says Tulu is less popular than other languages, could become endangered, and faces pressure from mainstream languages. It also notes that speakers who migrated are often counted as Kannada speakers.
